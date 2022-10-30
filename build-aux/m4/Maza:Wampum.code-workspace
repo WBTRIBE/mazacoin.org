@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Maza:Wampum",
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"solidity-va.hover": true
+	}
+}
